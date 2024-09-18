@@ -1,3 +1,3 @@
-def sum(a,b):
+def sum(a,b,d):
 
-    return a+b
+    return a+b+d
